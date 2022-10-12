@@ -6,9 +6,9 @@
 ### :green_circle: do while vs while
 
 
-1.1 Initialize a variable i with 0, increment i in each round, stop the loop once i <= 20, use a while loop
+1.1 Initialize a variable i with 0, increment i in each round - i++, stop the loop once i <= 20, use a while loop
 
-1.2 Initialize a variable j with 0, increment j in each round, stop the loop once j <= 20, use a do while loop
+1.2 Initialize a variable j with 0, increment j in each round - j++, stop the loop once j <= 20, use a do while loop
 
 1.3 Which difference are you noticing, when comparing both loops?
 
