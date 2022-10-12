@@ -3,7 +3,7 @@
 
 # :cartwheeling: Exercise :weight_lifting:
 
-### do while vs while
+### :green_circle: do while vs while
 
 
 1.1 Initialize a variable i and stop the loop once i = 20, use a while loop
@@ -15,7 +15,7 @@
 
 ---
 
-### while loop practice
+### :green_circle: while loop practice
 
 1. Define three variables for the LaunchCode shuttle 
 - one for the starting fuel level, 
@@ -39,7 +39,7 @@ b) Otherwise add, "Failed to reach orbit."
 
 ---
 
-### do while loop practice
+### :green_circle: do while loop practice
 
 A user is currently watching TV on channel 1. :tv: The TV programm on channel 1 is boring and the user browses through the different TV channels. 
 
