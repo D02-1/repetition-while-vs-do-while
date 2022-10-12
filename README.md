@@ -41,7 +41,7 @@ b) Otherwise add, "Failed to reach orbit."
 
 ### :green_circle: do while loop practice
 
-A user is currently watching TV on channel 1. :tv: The TV programm on channel 1 is boring and the user browses through the different TV channels. 
+A user is currently watching TV on channel 1. :tv: The TV programm on channel 1 is boring and the user starts browsing through the different TV channels. 
 
 1. Use Math random to determine a number between 1 - 25. The random generated number, is the channel, where a interesting TV programm running.
 
