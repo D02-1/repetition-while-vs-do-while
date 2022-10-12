@@ -43,6 +43,6 @@ b) Otherwise add, "Failed to reach orbit."
 
 A user is currently watching TV on channel 1. :tv: The TV programm on channel 1 is boring and the user browses through the different TV channels. 
 
-1. Use Math random to determine a number between 1 - 25. The random generated channel is the one, where the TV programm is interesting.
+1. Use Math random to determine a number between 1 - 25. The random generated number, is the channel, where a interesting TV programm running.
 
 1.1 Now create a do while loop, where the user switches through the channels, until the channel with the interesting TV programm is found.
